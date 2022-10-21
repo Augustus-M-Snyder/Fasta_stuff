@@ -1,0 +1,12 @@
+( ./fasta_files/Arbacia_lixula_Coelomocytes_Assembly_Trinity.fasta)
+ Number of sequence IDs in '( ./fasta_files/Arbacia_lixula_Coelomocytes_Assembly_Trinity.fasta)'
+92169
+( ./fasta_files/Arbacia_lixula_Digestive_Assembly_Trinity.fasta)
+ Number of sequence IDs in '( ./fasta_files/Arbacia_lixula_Digestive_Assembly_Trinity.fasta)'
+87837
+( ./fasta_files/Arbacia_lixula_Ovary_Assembly_Trinity.fasta)
+ Number of sequence IDs in '( ./fasta_files/Arbacia_lixula_Ovary_Assembly_Trinity.fasta)'
+113257
+( ./fasta_files/Arbacia_lixula_Testis_Assembly_Trinity.fasta)
+ Number of sequence IDs in '( ./fasta_files/Arbacia_lixula_Testis_Assembly_Trinity.fasta)'
+92010
